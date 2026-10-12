@@ -1,0 +1,5 @@
+page run:
+npm run dev
+
+backend run:
+uvicorn main:app --reload
